@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm AL Moatasem Bellah Osama</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/184727798?v=4&label=Profile%20views&color=0e75b6&style=flat" alt="moatasem-osama" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moatasem-osama" alt="moatasem-osama" /></a> </p>
+<p align="left"> <a href="https://github.com/Moatasem-osama"><img src="https://avatars.githubusercontent.com/u/184727798?v=4" alt="moatasem-osama" /></a> </p>
 
 - 🔭 I’m currently working on [Healing Herb Platform](https://healingherbone.netlify.app/)
 
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **Moatasemosama18@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZwA-FfUK3GXQKtlRzW0hvPUNS86qDaw7/view?usp=sharing](https://drive.google.com/file/d/1ZwA-FfUK3GXQKtlRzW0hvPUNS86qDaw7/view?usp=sharing)
+- 📄 Know about my experiences [My CV on drive](https://drive.google.com/file/d/1ZwA-FfUK3GXQKtlRzW0hvPUNS86qDaw7/view?usp=sharing)
 
 - ⚡ Fun fact **I code better after a good cup of coffee.**
 
